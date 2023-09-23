@@ -46,17 +46,7 @@ Nail the number, and you're greeted with cheers, a virtual pat on the back in th
 
 ### 🎮 How to Run
 
-1. **Download the Code**: Download this fantastic code from the GitHub repo. Unzip the folder and navigate to it in your terminal.
-
-2. **Set the Flask App**: In the terminal, set the Flask app to `server.py`:
-    ```bash
-    export FLASK_APP=server.py
-    ```
-    > 📝 Note: If you're on Windows, use `set` instead of `export`.
-
-3. **Run the App**: In the terminal, execute:
-    ```bash
-    flask run
+Now all has been set up so just run the code then
     ```
 
 4. **Open the Browser**: Open your favorite browser and navigate to `http://127.0.0.1:5000/`.
